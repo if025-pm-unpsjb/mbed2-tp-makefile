@@ -45,9 +45,6 @@
 language.settings.xml
 *.launch
 
-# ignore contents of build directory
-build/**
-
 # ignore the Makefile.mine file
 Makefile.mine
 
